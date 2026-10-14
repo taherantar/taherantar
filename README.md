@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Taher Antar 👋
 
-<!--
-**taherantar/taherantar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Sales Representative, Business Development at EM Egypt**
+Authorized Schneider Electric High Power Premiere Partner
 
-Here are some ideas to get you started:
+I help banks, hospitals, data centers and airports stay online when the power doesn't.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> طاهر عنتر | حلول الطاقة وأنظمة UPS للقطاعات الحرجة
+
+## ⚡ What I do
+- UPS systems, industrial batteries and voltage stabilizers
+- Right-sizing: load calculation, autonomy time and battery selection
+- Maintenance contracts and long-term support after the sale
+
+## 🛠️ What I build
+- [KIMIT E-Commerce](https://github.com/taherantar/EcommerceKIMIT): bilingual (EN/AR) store with React & Redux. [Live demo](https://ecommerce-kimit.vercel.app)
+- More coming: UPS battery sizing tools and calculators
+
+## 📚 Currently learning
+Python · AI agents · AWS fundamentals
+
+## 📬 Let's connect
+- LinkedIn: www.linkedin.com/in/taher-antar
+- Email: taher.hp@hotmail.com
